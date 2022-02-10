@@ -1,14 +1,14 @@
-![image-20220210151450037](C:\Users\dbseo\AppData\Roaming\Typora\typora-user-images\image-20220210151450037.png)
+![클론 만들기](Git-pull&error.assets/image-20220210151450037.png)
 
 
 
 
 
-![image-20220210151519723](C:\Users\dbseo\AppData\Roaming\Typora\typora-user-images\image-20220210151519723.png)
+![클론 폴더로 이동](Git-pull&error.assets/image-20220210151519723.png)
 
 
 
-![image-20220210151558070](C:\Users\dbseo\AppData\Roaming\Typora\typora-user-images\image-20220210151558070.png)
+![클론 확인](Git-pull&error.assets/image-20220210151558070.png)
 
 
 
@@ -23,7 +23,7 @@
 
 
 
-![image-20220210153030525](C:\Users\dbseo\AppData\Roaming\Typora\typora-user-images\image-20220210153030525.png)
+![클론과 풀 그림](Git-pull&error.assets/image-20220210153030525.png)
 
 
 
@@ -35,7 +35,7 @@
 
 
 
-![image-20220210162418603](C:\Users\dbseo\AppData\Roaming\Typora\typora-user-images\image-20220210162418603.png)
+![에러](Git-pull&error.assets/image-20220210162418603.png)
 
 같은 파일 같은 폴더에 겹치면 이 에러가 뜸
 
@@ -45,7 +45,7 @@
 
 
 
-![image-20220210162640609](C:\Users\dbseo\AppData\Roaming\Typora\typora-user-images\image-20220210162640609.png)
+![에러설명](Git-pull&error.assets/image-20220210162640609.png)
 
 충돌나면 
 
