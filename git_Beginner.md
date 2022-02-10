@@ -15,4 +15,17 @@
 
 # Git 기본 명령어
 
+![image-20220210114422256](git_Beginner.assets/image-20220210114422256.png)
+
+
+
+- **Working Directory**(Working Tree)= 일반적인 작업이 일어나는 곳
+- **Staging Area**(Index)= 커밋을 위한 파일 및 폴더가 추가되는 곳
+- **Repository** = Staging Area에 있던 파일 및 폴더의 변경사항 (Commit)을 저장하는곳
+- 위의 순서대로 버전 관리를 수행함
+
+## git init
+
+```
+
 
