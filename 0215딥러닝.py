@@ -7,11 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1O3vRADHdSlzclK9DpGKB-hx8uFyUMnN0
 """
 
-!nvidia-smi
-
-!gegorce-smi
-
-!geforce-smi
 
 import numpy as np
 
